@@ -14,7 +14,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/light.gif" width="30" /> Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@iSreyanshu-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/iSreyanshu)
 [![X](https://img.shields.io/badge/X-@iSreyanshu-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iSreyanshu)
