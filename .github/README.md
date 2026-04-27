@@ -12,9 +12,11 @@
 
 ---
 
-### Connect With Me
+### 🌐 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@iSreyanshu-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/iSreyanshu)
+[![X](https://img.shields.io/badge/X-@iSreyanshu-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iSreyanshu)
+[![Discord](https://img.shields.io/badge/Discord-iSreyanshu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iSreyanshu)
 
 ---
 
