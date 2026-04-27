@@ -1,6 +1,5 @@
 # Hey; I'ᴍ Sreyanshu
-<p align="center">
-    <img src="https://camo.githubusercontent.com/ee7b6e6f7451ffa9656bc1f455c0c28502a0eb0a6f2f8ec52ee0a42b7cae96ac/68747470733a2f2f692e6962622e636f2f734a6266545133702f32303236303431332d3136313835372e706e67">
+<a href="https://telegram.me/iSreyanshu"><img alt="Count" src="https://count.getloli.com/get/@iSreyanshu?theme=rule34"/></a>
 </p>
 
 ---
