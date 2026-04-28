@@ -1,4 +1,4 @@
-## Hey; I'ᴍ Sreyanshu <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/white-duck.png" width="30" align="center" />
+## Hey; I'ᴍ Sreyanshu <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/12.duck.png" width="30" align="center" />
 <a href="https://telegram.me/iSreyanshu"><img alt="Count" src="https://count.getloli.com/get/@iSreyanshu?theme=rule34"/></a>
 </p>
 
