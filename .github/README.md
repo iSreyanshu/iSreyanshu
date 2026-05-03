@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSreyanshu&theme=github-dark-blue&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSreyanshu&theme=github-dark-blue&hide_border=true" width="81.81%" />
 </p>
 
 ---
