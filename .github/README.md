@@ -1,9 +1,12 @@
 ## Hey; Iᴍ Sreyanshu <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/12.duck.png" width="30" align="center" />
 <a href="https://telegram.me/iSreyanshu"><img alt="Count" src="https://count.getloli.com/get/@iSreyanshu?theme=rule34"/></a>
 
+> **Full-stack Architect & Web3 Explorer.**
+> Creating smooth experiences and sleek interfaces with a focus on precision.
+
 ---
 
-### <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/simple.gif" width="30" align="center" /> Tech Stack
+### <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/simple.gif" width="30" align="center" /> Tech Stack i used:
 
 #### <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/31.duck.png" width="30" align="center" /> Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PineScript](https://img.shields.io/badge/PineScript-orange?style=for-the-badge&logo=tradingview&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,6 +16,12 @@
 
 #### <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/26.duck.png" width="30" align="center" /> Tools, Databases & Runtimes
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSreyanshu&theme=github-dark-blue&hide_border=true" width="100%" />
+</p>
 
 ---
 
