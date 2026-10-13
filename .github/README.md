@@ -1,7 +1,7 @@
 ## Hey; Iᴍ Sreyanshu <img src="https://raw.githubusercontent.com/iSreyanshu/iSreyanshu/app/.github/images/12.duck.png" width="30" align="center" />
 <a href="https://telegram.me/iSreyanshu"><img alt="Count" src="https://count.getloli.com/get/@iSreyanshu?theme=rule34"/></a>
 
-> **Full-stack Architect & Web3 Explorer.**
+> **Fullstack Architect & Web3 Explorer.**
 > Creating smooth experiences and sleek interfaces with a focus on precision.
 
 ---
@@ -27,7 +27,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@iSreyanshu-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/iSreyanshu)
 [![X](https://img.shields.io/badge/X-@iSreyanshu-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iSreyanshu)
-[![Discord](https://img.shields.io/badge/Discord-iSreyanshu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iSreyanshu)
+[![Discord](https://img.shields.io/badge/Discord-iSreyanshu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/874921107017334804)
 
 ---
 
